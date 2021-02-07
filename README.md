@@ -5,6 +5,7 @@ forked from ankon/xtrkcad
 import source XTrkCAD for adaptation RPM distributions Linux.
 
 Beta 3.0 Release Notes
+
 Welcome to the XtrackCAD V5.2.0 Beta 3.0 release!
 
 Beta 3.0 has a few functional enhancements and a few bug fixes since Beta 2.1. Beta 3.0 is intended to be a predule to a GA release. We only intend to add fixes and not functional enhancements at this point.
