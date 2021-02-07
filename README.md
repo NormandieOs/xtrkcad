@@ -1,4 +1,5 @@
 # xtrkcad
+XTrackCAD is a open-source, free, CAD program for designing model railroad layouts. You can easily create layout of any scale or size. Libraries for many brands, scales and gauges of track and turnouts/points and model structures are included. Adding new components is easy with the built-in editor. It runs on Windows, Mac and Linux,
 Import of https://sourceforge.net/p/xtrkcad-fork/xtrkcad -- go there for anything, really!
 forked from ankon/xtrkcad
 import source XTrkCAD for adaptation RPM distributions Linux.
